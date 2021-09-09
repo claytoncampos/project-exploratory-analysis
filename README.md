@@ -22,3 +22,4 @@ Projeto desenvolvido durante curso de Python Fundamentos para Análise de dados 
 - Linguagem Python
 - Linguagem SQL
 - Banco de Dados SQLite.
+- Jupyter Notebook
