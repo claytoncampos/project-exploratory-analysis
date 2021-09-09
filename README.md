@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante curso de Python Fundamentos para Análise de dados 3.0 da DSA
 
-## Fonte de dados ( IMBD )
+## Fonte de dados ( IMBD ) 9.66 GB
 
 ### Ao aplicar Análise Exploratória de Dados vamos responder a estas 10 perguntas:
 
